@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-#$# Study Design: MechaCar vs Competition
+### Study Design: MechaCar vs Competition
 
 1.) What metric or metrics are you going to test?
 
